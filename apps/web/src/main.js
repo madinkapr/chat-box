@@ -13,7 +13,7 @@ while (!username || !username.trim()) {
 
 username = username.trim()
 
-const server = io("http://localhost:3000")
+const server = io("http://192.168.1.23:3000")
 
 function getAvatarText(name) {
     const parts = name.split(" ")

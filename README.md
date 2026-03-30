@@ -4,13 +4,13 @@ A real-time chat application built with Socket.IO, featuring a monorepo architec
 
 ## Screenshots
 
-![Login Prompt](./screenshot1.png)
+![Login Prompt](./images/screenshot1.png)
 *Enter your name to join the chat*
 
-![Chat Interface](./screenshot2.png)
+![Chat Interface](./images/screenshot2.png)
 *Real-time messaging with multiple users*
 
-![Multi-user Chat](./screenshot3.png)
+![Multi-user Chat](./images/screenshot3.png)
 *Group chat in action*
 
 ## Introduction
